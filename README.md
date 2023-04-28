@@ -15,6 +15,6 @@ julia> println(decrypted)
 
 Output:
 
-```
+```text
 Hello, World!
 ```
